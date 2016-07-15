@@ -1,6 +1,5 @@
 # Pasquale Palazzolo's DWA Deployment Plan
 
-* * *
 
 1. Develop the site locally
 2. Commit regularly when you reach logical stopping points in your work
